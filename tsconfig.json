@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "jsx": "react",
+    "lib": [
+      "DOM",
+      "ES2019"
+    ],
+    "sourceMap": true,
+    "strict": true
+  },
+  "files": [
+    "src/concentration.tsx",
+    "src/types/Resources.d.ts"
+  ]
+}
